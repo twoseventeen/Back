@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="3.37.220.80" id="3d23ef26-1d56-431b-baef-d40106129ae3" keyPath="$USER_HOME$/aws/4_chatbot.pem" port="22" customName="apiServer" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="apiServer" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
